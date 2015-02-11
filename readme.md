@@ -1,6 +1,6 @@
-# MICO Custom Taxonomy: Seasons
+# MICO Custom Taxonomy: Performance Category
 This is a very simple plugin, with the only purpose of adding a 
-translation ready taxonomy named "seasons" to wordpress. 
+translation ready taxonomy named "performance-category" to wordpress. 
 
 Out of the box you wont be able to see this in the admin. 
 You need to add it to an existing post type like so:
